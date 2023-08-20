@@ -4,7 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Software+engineer..+&hearts;++;Self-taught+Front-End+Developer,;CEO+of+RG+Agency,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ilkin944&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
