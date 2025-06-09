@@ -22,40 +22,6 @@
 
 ### ⚙️ Tech Stack
 
-**Frontend**  
-`React` · `Next.js` · `Redux Toolkit` · `Tailwind CSS` · `Chakra UI` · `AntDesign` · `TypeScript`  
-
-**Mobile**  
-`React Native` · `Expo SDK` · `MMKV` · `WebRTC` · `Firebase` · `Async Storage`
-
-**Backend**  
-`Node.js` · `Fastify` · `Express` · `MongoDB` · `PostgreSQL` · `Redis` · `GraphQL` · `REST`
-
-**DevOps & Tools**  
-`Docker` · `GitHub Actions` · `AWS` · `GCP` · `Digital Ocean` · `Sentry` · `Jest` · `ESLint`  
-
----
-
-### 🚀 Highlight Projects
-
-#### ⚡ EV Charging Mobile App
-Real-time EV charging app using OCPP, built with React Native, Expo, and Fastify.
-
-#### 🛠️ SaaS CRM for Translators (Locarise.ca)
-AI-powered OCR & translation management tool with Stripe, Docker, and cloud deployment.
-
-#### 🧰 Gotursur (Vehicle Rentals)
-React Native app for vehicle tracking, payments, and in-app voice/video calls.
-
-#### 🛒 Avon Azerbaijan
-Custom e-commerce platform with MLM referral system, warehouse management & ElectronJS.
-
-➡️ [More projects on my GitHub »](https://github.com/ilkin944)
-
----
-
-# 💻 Tech Stack
-
 ## 🧠 Languages & Fundamentals
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -144,6 +110,27 @@ Custom e-commerce platform with MLM referral system, warehouse management & Elec
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+
+---
+
+### 🚀 Highlight Projects
+
+#### ⚡ EV Charging Mobile App
+Real-time EV charging app using OCPP, built with React Native, Expo, and Fastify.
+
+#### 🛠️ SaaS CRM for Translators (Locarise.ca)
+AI-powered OCR & translation management tool with Stripe, Docker, and cloud deployment.
+
+#### 🧰 Gotursur (Vehicle Rentals)
+React Native app for vehicle tracking, payments, and in-app voice/video calls.
+
+#### 🛒 Avon Azerbaijan
+Custom e-commerce platform with MLM referral system, warehouse management & ElectronJS.
+
+➡️ [More projects on my GitHub »](https://github.com/ilkin944)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ilkin944&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilkin944&theme=dark&hide_border=false)<br/>
@@ -160,6 +147,12 @@ Custom e-commerce platform with MLM referral system, warehouse management & Elec
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilkin944/ilkin944/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilkin944/ilkin944/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ilkin944/ilkin944/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ilkin944&icon=0&color=0)](https://visitcount.itsvg.in)
